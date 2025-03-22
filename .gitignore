@@ -1,3 +1,5 @@
 *.pbf
 *.geojsonseq
+*.pmtiles
+
 
